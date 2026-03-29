@@ -1,0 +1,8 @@
+# Core runtime dependencies
+picamera2
+opencv-python
+numpy
+pyserial
+RPi.GPIO
+rpi_ws281x
+pigpio
